@@ -1,0 +1,4 @@
+Animal,Peso,Sexo,Idade,Raça,FC,FR,PAS,T°C,Oximetria,Hematócrito,Arquivo,ID_Arquivo,pH,PCO2,PO2,Na,K,Cl,Hct,Hb,BE,HCO3,codigo,paciente,tutor,especie_x,raca_x,idade_x,peso_kg_x,motivo_internacao,especie_y,raca_y,idade_y,sexo,hematocrito,hemoglobina,wbc,neutrofilos,linfocitos,plaquetas,peso_kg_y,eosinofilos_percentual,monocitos_percentual,hemacias,observacoes,previsao_desfecho,previsao_dias
+0,0,0,0,0,80.0,20.0,120.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.546304919299659
+0,0,0,0,0,80.0,20.0,120.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.546304919299659
+0,0,0,0,0,190.0,8.0,70.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.3919698995419525
